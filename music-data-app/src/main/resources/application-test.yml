@@ -1,0 +1,10 @@
+server:
+  port: 80
+
+# 应用配置
+app:
+  config:
+    # 版本，方便通过接口版本升级
+    api-version: v1
+    # 跨域配置
+    cross-origin: https://www.fishsoup.top

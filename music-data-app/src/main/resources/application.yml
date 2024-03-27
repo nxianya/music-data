@@ -1,0 +1,5 @@
+spring:
+  config:
+    name: cloud-music-data
+  profiles:
+    active: dev
