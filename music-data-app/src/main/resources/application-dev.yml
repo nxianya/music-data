@@ -13,7 +13,7 @@ spring:
   datasource:
     username: root
     password: root123456
-    url: jdbc:mysql://www.fishsoup.top:3306/
+    url: jdbc:mysql://www.fishsoup.top:3306/music
     driver-class-name: com.mysql.jdbc.Driver
     hikari:
       pool-name: Retail_HikariCP
